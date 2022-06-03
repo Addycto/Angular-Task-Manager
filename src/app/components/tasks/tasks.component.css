@@ -1,0 +1,4 @@
+.tasks-container{
+    max-height: 40%;
+    overflow: auto;
+}
